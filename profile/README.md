@@ -1,5 +1,10 @@
 <p align="center">
-  <a href="https://acuca-sp.github.io"><img src="https://acuca-sp.github.io/assets/img/logo-acucarte.png" alt="ACUCARTE" width="420"></a>
+  <a href="https://acuca-sp.github.io">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://acuca-sp.github.io/assets/img/logo-acucarte-claro.png">
+      <img src="https://acuca-sp.github.io/assets/img/logo-acucarte.png" alt="ACUCARTE" width="420">
+    </picture>
+  </a>
 </p>
 
 <p align="center"><b>Associação Cultural Cannábica de São Paulo</b> · desde 2012</p>
